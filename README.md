@@ -1,8 +1,8 @@
 # Visualizations
-Python Visualizations
+
 In this notebook, I am going to explore a dataset on the job outcomes of students who graduated from college between 2010 and 2012. Th original data n the job outcomes was released by American Community Survey and cleaned by FiveThirtyEight https://github.com/fivethirtyeight/data/tree/master/college-majors
 
-I will try to answer the following questions What is the gender distribution on the top ten majors by the total number of graduates? What are the top ten highest-paying majors and which gender is the majority of these majors? What are the ten lowest paying majors and which gender is the majority? What is the gender distribution by major category What is the unemployment rate per major category? and what are the top ten majors with the highest percentage of the unemployment rate?
+I will try to answer the following questions What is the gender distribution ofn the top ten majors by the total number of graduates? What are the top ten highest-paying majors and which gender is the majority of these majors? What are the ten lowest paying majors and which gender is the majority? What is the gender distribution by major category What is the unemployment rate per major category? and what are the top ten majors with the highest percentage of the unemployment rate?
 
 Each row in the dataset represents a different major in college and contains information on gender diversity, employment rates, median salaries, and more. Here are some of the columns in the dataset:
 
